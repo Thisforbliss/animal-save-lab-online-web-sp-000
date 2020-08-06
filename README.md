@@ -22,6 +22,7 @@ trouble.
 
 ## Instructions
 ##
+
 1. Open the index.html in the browser to navigate to different animal pages to
 see which ones you can rescue. Click on any individual animal to see the
 dangers they face. Once you are looking at a particular animals page, clicking
